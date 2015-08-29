@@ -2,10 +2,10 @@
 
 ## Pet project on java
 
-This project i start for training my programming abileties and refer it for people who whant to see what level of wrighting i have.
+I start this project for training my programming abileties and refer it for people who whant to see what coding skills i have.
 
-For first i want to say some words about what you can see. Its a couple of files whith .java extension. They are containe classe which designed whis **observer** and **builder** design patterns. Also its using an **openGl** library for render of image.
+For the first i want to say some words about what you can see on this repository. Its a couple of files with `.java` extension. They contained classes which designed with **observer** and **builder** design patterns. Also its using an **openGl** library for render of image.
 
-What the result of it? It is not finished small game, yet. Its looks like a blocks on a blocks which are fitings with ich other. You controls an green one (VK_UP, VK_DOWN, VK_LEFT, VK_RIGHT).
+What the result of it? Its not finished small game what looks like a blocks on a blocks which are fitings with ich other. You control a green one (VK_UP, VK_DOWN, VK_LEFT, VK_RIGHT).
 
 Image example:
