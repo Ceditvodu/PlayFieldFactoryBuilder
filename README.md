@@ -2,7 +2,7 @@
 
 ## Pet project on java
 
-I start this project for training my programming abileties and refer it to the people who whant to see what coding skills i have.
+I start this project for training my programming abileties and refer it to the people who want to see what coding skills i have.
 
 For the first i want to say some words about what you can see on this repository. Its a couple of files with `.java` extension. They contained classes which designed with **observer** and **builder** design patterns. Also its using an **openGl** library for render of image.
 
