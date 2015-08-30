@@ -26,6 +26,7 @@ public class CurrentEnemyPositions implements Observer {
         this.p11 = p11;
         this.p12 = p12;
         this.p13 = p13;
+        //fuf
         display();
     }
     
